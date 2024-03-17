@@ -1,6 +1,6 @@
 # Portafolio
 Creado con el objetivo de aplicar lo aprendido sobre HTML y CSS. 
 
-[![Texto alternativo](https://i.postimg.cc/qRzrkX48/977shots-so.webp)](https://startling-mermaid-1d73e9.netlify.app/)
+[![Portafolio.webp](https://i.postimg.cc/85bh9V92/Portafolio.webp)](https://startling-mermaid-1d73e9.netlify.app/)
 
 
